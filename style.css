@@ -73,7 +73,7 @@ button {
 
 .portrait{
 display:flex;
-    justify-content:space-around;
+    justify-content:space-between;
     flex-direction:row-reverse;
 background-color:#ffffff;
     

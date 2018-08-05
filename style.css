@@ -347,7 +347,8 @@ width:20%;
 
 .sites{
     
-    margin-top:50px
+    margin-top:50px;
+    margin-bottom:50px
 }
 .social-icon ul{
     display:flex;

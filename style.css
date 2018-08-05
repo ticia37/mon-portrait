@@ -87,7 +87,11 @@ width:20%;
     height: 100px;
 }
 
-
+.home{
+    padding: 40px 20px 0 0;
+  font-size: 20px  
+    
+}
 #titre{
     
     background-color: #FED75A;
@@ -344,4 +348,25 @@ width:20%;
 .sites{
     
     margin-top:50px
+}
+.social-icon ul{
+    display:flex;
+        justify-content:flex-end;
+    padding:30px 
+}
+
+
+.social-icon a {
+    
+    color:#cccccc;
+    padding-left:20px;
+    font-size:30px
+}
+
+
+.copy{
+
+    display:flex;
+    justify-content: center;
+    margin-top:-60px
 }

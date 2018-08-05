@@ -76,11 +76,11 @@ display:flex;
     justify-content:space-around;
     flex-direction:row-reverse;
 background-color:#ffffff;
-    padding:20px 0 20px 0;
+    
     
 }
   
 .portrait img{
-width:40%;
+width:20%;
 }
 
